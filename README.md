@@ -1,98 +1,131 @@
-<h1 align="center">Hi 👋, I'm Rex Sitti</h1>
-<h3 align="center">Applied Microeconomist Conducting Research on Urban and Health Economics</h3>
+# Hi 👋, I'm Rex W. Sitti
+### Assistant Professor of Economics | Public, Urban, and Health Economist
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r3xstar&theme=flat&margin-w=10" alt="GitHub Trophy" />
-  </a>
-</p>
+---
+  
+  ## 🧠 About Me
+  I am an **Assistant Professor of Economics** at the **Strome College of Business, Old Dominion University**.  
+My work bridges **public, urban, and health economics**, focusing on how housing programs and safety nets affect individual and neighborhood outcomes.
+
+My research explores:
+  - 🏠 The impacts of **homeless shelters and housing programs** on property values and neighborhood well-being  
+- 💊 The **economic evaluation of safety net programs** such as Peer Support Services from Medicaid and the Earned Income Tax Credit (EITC)  
+- 🌊 The implications of **coastal flooding** on real estate markets and community resilience  
+
+I aim to produce **policy-relevant, data-driven insights** that improve the effectiveness of public programs and resource allocation.
+
+---
+  
+  ## 🔬 Research & Publications
+  
+  ### 🏛️ Peer-Reviewed Articles
+  - Dole, J.L. *et al.*, **Sitti, R.W.** (2025).  
+*“A Review of the Literature on Neighborhood Impacts of Permanent Supportive Housing (PSH) and Emergency Shelters for People Experiencing Homelessness.”*  
+  *Housing, Care and Support*, 28(2), 43–55.  
+[DOI: 10.1108/HCS-02-2024-0003](https://doi.org/10.1108/HCS-02-2024-0003)
+
+- **Sitti, R.W.** & Berrens, R.P. (2022).  
+*“Valuing Fishing Access on Lake Victoria Winam Gulf: A Hedonic Pricing Model.”*  
+  *International Journal of Ecological Economics & Statistics*, 43(2).  
+  [Read here](http://www.ceser.in/ceserp/index.php/ijees/article/view/6867)
+
+- **Sitti, R.W.** & Crisanti, A.S., Horn, b.p., & Saavedra, J.L.** (in press) 
+*"The Economic Costs of a Peer Support-Driven Intervention for Substance Use Disorders"* 
+  *American Journal of Drug and Alcohol Abuse*  
+
+### 🧩 Research Under Review
+- *The Effect of Homeless Shelters on Property Values: Evidence from Seattle, WA* — *Submitted to the Journal of Urban Economics*  
+- *Income Transfers and Food Demand: Evidence from the State EITC Program* — *Submitted to Review of Economics of the Household*  
+- *Peer and Community Support Services on Medicaid Billing Charges* — *Submitted to Health Services Research*
+
+### 🧠 Current Projects
+- *Coastal Flooding and Housing Market Liquidity: Policy Implications for Eastern U.S. Communities* – Interdisciplinary collaboration with ICAR on climate and housing resilience  
+- *The Impact of Housing Support Services on Crime: Evidence from the Built-For-Zero Program*  
+- *The Effect of Homeless Shelters on Localized Crime: Evidence from Seattle, WA*
+- *The Impact of State Earned Income Tax Credit on Household Spending: Evidence from Low-Income Families* – Using CE Survey data (2004–2019) and modern diff-in-diff methods
+---
+
+## 🧑‍🏫 Teaching at ODU
+- *Urban Economics (ECON 445W/545)*  
+- *Research Seminar in Applied Economics (ECON 698)*  
+- *Principles of Macroeconomics (ECON 201S)*  
+- *Managerial Economics (ECON 301)*  
+- *Economics for Managers (ECON 510)*  
+- *Mathematics for Economists (ECON 625)*  
+
+My teaching emphasizes **inclusivity**, **open-source materials**, and **real-world applications** that help students connect economic theory to policy.
 
 ---
 
-### 🧠 About Me  
-I’m an **Assistant Professor of Economics** at the **Strome College of Business, Old Dominion University**.  
-My research lies at the intersection of **public, urban, and health economics**, with a focus on:  
-- 🏠 The effects of **homelessness and housing programs** on property markets  
-- 💊 Evaluations of **safety net programs** like Medicaid and the Earned Income Tax Credit  
-- 🌊 The impact of **coastal flooding** on housing market dynamics  
-
-I aim to provide **data-driven insights** that help policymakers improve the effectiveness of public programs and resource management.
+## 🏅 Grants, Honors & Awards
+- **E.V. Williams Center for Real Estate Seed Grant Program** (2025)  
+- **ODU Early Career Research Academy** (2025)  
+- **Southern Economic Association Travel Award** (2023)  
+- **Outstanding Research Award**, Michigan State University & AEASP (2020)  
+- **J. Raymond Stuart Award in Economics** (2020)  
 
 ---
 
-### 🔭 Current Work  
-- **Project:** *The Impact of State Earned Income Tax Credit Adoption and Household Spending*  
-- **Learning:** Python for data processing and reproducible research workflows  
-- **Collaboration Interests:** Housing policy and safety net program evaluations  
-- **Currently Seeking Help With:** Geocoding nationwide data on homeless shelters  
-- **Writing:** Regular posts on applied microeconomics and policy at [Tidbit Finance](https://tidbitfinance.wordpress.com/)  
-
-💬 Ask me about **R, LaTeX, GIS, and program evaluation**
-
----
-
-### 🧑‍🏫 Teaching  
-Courses I teach at ODU:  
-- **ECON 445W/545W – Urban Economics**  
-- **ECON 698 – Research Seminar in Applied Economics**  
-- **Principles of Macroeconomics**
-
-I emphasize **open-source materials**, **data applications**, and **inclusive learning environments** to build real-world analytical skills.
+## 🎤 Conferences & Invited Talks
+- Invited Talk – *St. Lawrence University, Canton, NY* (Oct 2025)  
+- *E.V. Williams Center for Real Estate Symposium*, ODU (Oct 2025)  
+- *Southern Economic Association Annual Meetings* (2022–2025)  
+- *Midwest Economic Association* (2023)  
+- *ASHEcon Annual Conference* (2022)  
+- *NBER Behavioral Public Economics Boot Camp* (2022)
 
 ---
 
-### ⚙️ Languages and Tools  
-<p align="left">
-  <a href="https://www.stata.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Stata_logo.png" alt="Stata" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/></a>
-  <a href="https://www.qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-</p>
+## 🎙️ Featured Talks & Media
+
+- 🎓 **“Housing and Community Resilience: Understanding the Effects of Coastal Flooding on Property Markets”**  
+  *Invited Talk, St. Lawrence University, 2025*
+
+- 🏠 **“The Effect of Homeless Shelters on Property Values”**  
+  *Southern Economic Association Conference, Washington, DC, 2024*
+
+- 🧾 **“Do State EITC Programs Affect Household Spending?”**  
+  *ODU Brown Bag Seminar Series, 2025*
+
+- 🗣️ **Media & Outreach**
+  - Contributor at *TidbitFinance* blog: [tidbitfinance.wordpress.com](https://tidbitfinance.wordpress.com)  
+  - Shared research highlights on Twitter: [@rexsitti](https://twitter.com/rexsitti)
+
+> 🎥 *Coming soon:* Short explainer videos linking research to policy debates.
+- Interview on *Economics of Housing Resilience* (2025)  
 
 ---
 
-### 🧪 Ongoing Research Projects  
-- 🏠 *Homeless Shelter and Property Values* — Analyzing how proximity to shelters affects home sale prices (King County, Seattle).  
-- 🌊 *Predicting Tidal Flooding and Evaluating its Impact on Housing* — Collaborative work with ICAR on flood risk and property sellability.  
-- 💵 *Do State EITCs Affect Household Spending?* — Evidence from the Consumer Expenditure Survey, 2004–2019.
+## 🤝 Service & Mentorship
+- Mentor, M.A. Economics Graduate Students, Old Dominion University (2024–Present)  
+- Discussant, *E.V. Williams Center for Real Estate Symposium* (2025)  
+- Mentor, *Project for New Mexico Graduates of Color*, UNM (2019–2023)  
+- Treasurer, *Economics Graduate Students Organization*, UNM (2020–2021)  
+- Reviewer, Undergraduate Research Opportunity Conference, UNM (2019)  
+
+**Professional Memberships:**  
+American Economic Association • ASHEcon • Western Economic Association • Midwest Economic Association  
 
 ---
 
-### 📄 Selected Publications  
-- *Housing Care and Support* — “Homeless Shelters and Property Values”  
-- *Review of Economics and Statistics* — “Do State EITCs Affect Household Spending?”  
-- Manuscripts in preparation for *Social Science & Medicine*, *Journal of Urban Economics*, and *Journal of Substance Abuse Treatment*  
-
-📄 [Full CV](https://sites.google.com/view/rexwsitti/cv)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3xstar&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3xstar&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+## ⚙️ Tools & Technical Skills
+**Econometrics & Statistical Software:** R (Expert) | Stata (Proficient) | SAS (Intermediate) | SPSS (Proficient)  
+**Data Visualization & Mapping:** Tableau | QGIS | GIS Spatial Analysis  
+**Programming:** Python (Basic)  
+**Other:** LaTeX | Git | GitHub | Markdown  
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://twitter.com/rexsitti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rexsitti" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rex-sitti-ph-d-11996430/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-📫 **Reach me:** rsitti@odu.edu  
-⚡ **Fun fact:** I’m ambidextrous!
+## 📊 GitHub Overview
+![Rex’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3xStar&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=R3xStar&show_icons=true&layout=compact)
 
 ---
 
-*“Using data to improve public resource management and the effectiveness of safety net programs.”*
+## 📬 Connect
+- **Email:** rsitti@odu.edu  
+- **Website:** [Google Sites](https://sites.google.com/view/rexwsitti/home)  
+- **LinkedIn:** [Rex Sitti, Ph.D.](https://www.linkedin.com/in/rex-sitti-ph-d-11996430/)  
+- **Twitter:** [@rexsitti](https://twitter.com/rexsitti)  
+
+> *“Using data to improve public resource management and the effectiveness of safety net programs.”*
